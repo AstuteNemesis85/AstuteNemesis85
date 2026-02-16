@@ -2,7 +2,7 @@
 
 # Hey, I'm Aakash D 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Software+Engineer;Building+Cool+Stuff;Mobile+%7C+Backend+%7C+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Software+Engineer;Building+Cool+Stuff" alt="Typing SVG" />
 
 </div>
 
